@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma, Verdana, sans-serif
+}
+
+h1, h3 {
+    color: #2d7d3a;
+    font-weight: 1000;
+    font-family: "Arial Black", Arial, sans-serif;
+    text-decoration: underline overline;
+    
+}
+
+#mainpic {
+    width: 400px;
+    height: auto;
+}
+
+.list {
+    background-color: #2d7d3a;
+    color: white;
+    width: 400px;
+    filter: drop-shadow(0 0 0.75rem #0a3d29)
+
+}
